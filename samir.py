@@ -439,7 +439,7 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-openhttps://www.facebook.com/FOURKANUDDIN123")
+			os.system("xdg-open https://www.facebook.com/FOURKANUDDIN123")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Checking Subsacribetion")
